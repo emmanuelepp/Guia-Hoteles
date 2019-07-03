@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles-",
+  "version": "1.0.0",
+  "description": "Nodejs project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmanuelepp/Guia-Hoteles-.git"
+  },
+  "author": "Emmanuel Ponciano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanuelepp/Guia-Hoteles-/issues"
+  },
+  "homepage": "https://github.com/emmanuelepp/Guia-Hoteles-#readme"
+}
